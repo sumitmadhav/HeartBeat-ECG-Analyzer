@@ -1,4 +1,4 @@
-# Brain Mapping EEG Classification System
+# HeartBeat ECG Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.3.3-green.svg)
